@@ -1,0 +1,11 @@
+02.Apr.19 14:50:57.982  INFO   [AppLogger]    AppBaseTest         **** IN TEST : EmployeeCheck *****                                                            
+02.Apr.19 14:50:57.982  INFO   
+----------------------------------------------------------------------
+
+02.Apr.19 14:50:57.983  INFO   Info Test Method Name = test.EmployeeDirectory.tests.SampleTest.EmployeeCheck
+02.Apr.19 14:50:57.983  INFO   
+----------------------------------------------------------------------
+
+02.Apr.19 14:52:57.863  INFO   [AppLogger]    Segment             Waiting for an element        com.orgname.EmployeeDirectory:id/segEmployees               30        true      
+02.Apr.19 14:53:09.523  INFO   [AppLogger]    frmListDetail       Get text on element                                                                       Alex Sion 
+02.Apr.19 14:53:22.268  INFO   [AppLogger]    frmListDetail       Click on element                                                                          

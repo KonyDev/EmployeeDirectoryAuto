@@ -1,0 +1,22 @@
+06.May.19 15:11:38.029  INFO   [AppLogger]    AppBaseTest         **** IN TEST : LoginTest *****                                                            
+06.May.19 15:11:38.029  INFO   
+----------------------------------------------------------------------
+
+06.May.19 15:11:38.030  INFO   Info Test Method Name = test.EmployeeDirectory.tests.LoginTests.LoginTest
+06.May.19 15:11:38.030  INFO   
+----------------------------------------------------------------------
+
+06.May.19 15:11:45.644  INFO   [AppLogger]    LoginTests          Waiting for an element        com.orgname.EmployeeDirectory:id/btnLogin                   30        true      
+06.May.19 15:11:46.891  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/tbxUsername                30        true      
+06.May.19 15:11:47.942  INFO   [AppLogger]    AppElement          Clearing on element           com.orgname.EmployeeDirectory:id/tbxUsername                
+06.May.19 15:11:48.185  INFO   [AppLogger]    AppElement          Typing on element             com.orgname.EmployeeDirectory:id/tbxUsername                admin@kony.com
+06.May.19 15:11:48.509  INFO   [AppLogger]    AppElement          Hide keyboard                                                                             
+06.May.19 15:11:50.118  INFO   [AppLogger]    frmHome             Waiting for an element        com.orgname.EmployeeDirectory:id/tbxPassword                30        true      
+06.May.19 15:11:51.166  INFO   [AppLogger]    AppElement          Clearing on element           com.orgname.EmployeeDirectory:id/tbxPassword                
+06.May.19 15:11:51.406  INFO   [AppLogger]    AppElement          Typing on element             com.orgname.EmployeeDirectory:id/tbxPassword                Kony@123  
+06.May.19 15:11:51.733  INFO   [AppLogger]    AppElement          Hide keyboard                                                                             
+06.May.19 15:11:53.426  INFO   [AppLogger]    frmHome             Waiting for an element        com.orgname.EmployeeDirectory:id/btnLogin                   30        true      
+06.May.19 15:11:54.475  INFO   [AppLogger]    frmHome             Click on element              com.orgname.EmployeeDirectory:id/btnLogin                   
+06.May.19 15:12:02.625  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/btnCancel                  30        true      
+06.May.19 15:12:03.679  INFO   [AppLogger]    frmHome             Click on element              com.orgname.EmployeeDirectory:id/btnCancel                  
+06.May.19 15:12:09.850  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/frmListDetail              30        true      

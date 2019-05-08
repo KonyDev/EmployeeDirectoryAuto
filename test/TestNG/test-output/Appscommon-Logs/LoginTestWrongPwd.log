@@ -1,0 +1,46 @@
+06.May.19 15:12:11.237  INFO   [AppLogger]    AppBaseTest         **** IN TEST : LoginTestWrongPwd *****                                                            
+06.May.19 15:12:11.237  INFO   
+----------------------------------------------------------------------
+
+06.May.19 15:12:11.237  INFO   Info Test Method Name = test.EmployeeDirectory.tests.LoginTests.LoginTestWrongPwd
+06.May.19 15:12:11.237  INFO   
+----------------------------------------------------------------------
+
+06.May.19 15:12:41.407  INFO   [AppLogger]    LoginTests          Waiting for an element        com.orgname.EmployeeDirectory:id/btnLogin                   30        false     
+06.May.19 15:12:41.682  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/btnMenu                    30        true      
+06.May.19 15:12:42.767  INFO   [AppLogger]    LoginTests          Click on element              com.orgname.EmployeeDirectory:id/btnMenu                    
+06.May.19 15:12:44.111  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/flxBotom                   30        true      
+06.May.19 15:12:45.213  INFO   [AppLogger]    frmListDetail       Click on element              com.orgname.EmployeeDirectory:id/flxBotom                   
+06.May.19 15:12:52.219  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/frmHome                    30        true      
+06.May.19 15:12:53.365  INFO   [AppLogger]    AppElement          Waiting for an element        com.orgname.EmployeeDirectory:id/tbxUsername                30        true      
+06.May.19 15:12:54.414  INFO   [AppLogger]    AppElement          Clearing on element           com.orgname.EmployeeDirectory:id/tbxUsername                
+06.May.19 15:12:54.648  INFO   [AppLogger]    AppElement          Typing on element             com.orgname.EmployeeDirectory:id/tbxUsername                admin@kony.com
+06.May.19 15:12:54.974  INFO   [AppLogger]    AppElement          Hide keyboard                                                                             
+06.May.19 15:12:56.576  INFO   [AppLogger]    frmHome             Waiting for an element        com.orgname.EmployeeDirectory:id/tbxPassword                30        true      
+06.May.19 15:12:57.619  INFO   [AppLogger]    AppElement          Clearing on element           com.orgname.EmployeeDirectory:id/tbxPassword                
+06.May.19 15:12:57.857  INFO   [AppLogger]    AppElement          Typing on element             com.orgname.EmployeeDirectory:id/tbxPassword                Kony@1234 
+06.May.19 15:12:58.181  INFO   [AppLogger]    AppElement          Hide keyboard                                                                             
+06.May.19 15:12:59.817  INFO   [AppLogger]    frmHome             Waiting for an element        com.orgname.EmployeeDirectory:id/btnLogin                   30        true      
+06.May.19 15:13:00.865  INFO   [AppLogger]    frmHome             Click on element              com.orgname.EmployeeDirectory:id/btnLogin                   
+06.May.19 15:13:09.994  INFO   [AppLogger]    Alerts              is element visible for id     android:id/parentPanel                                      true      
+06.May.19 15:13:10.084  INFO   [AppLogger]    AppElement          Waiting for an element        android:id/parentPanel                                      30        true      
+06.May.19 15:13:11.194  INFO   [AppLogger]    AppElement          Waiting for an element        android:id/content                                          30        true      
+06.May.19 15:13:12.253  INFO   [AppLogger]    Alerts              has child elements by ID      android:id/parentPanel                                      android:id/contenttrue      
+06.May.19 15:13:12.305  INFO   [AppLogger]    Alerts              has child elements by ID      android:id/buttonPanel                                      android:id/parentPaneltrue      
+06.May.19 15:13:12.333  INFO   [AppLogger]    Alerts              get list of child elements by IDandroid:id/buttonPanel                                      android:id/parentPanel1         
+06.May.19 15:13:12.363  INFO   [AppLogger]    Alerts              get list of child elements by classandroid.widget.TextView                                     android:id/parentPanel1         
+06.May.19 15:13:12.393  INFO   [AppLogger]    Alerts              get list of child elements by classandroid.widget.Button                                       android:id/parentPanel1         
+06.May.19 15:13:12.393  INFO   [AppLogger]    Alerts              is Alert visible              true                                                        
+06.May.19 15:13:14.959  INFO   [AppLogger]    LoginTests          Compare alert message         Login Failed                                                Login Failedtrue      
+06.May.19 15:13:16.043  INFO   [AppLogger]    Alerts              is element visible for id     android:id/parentPanel                                      true      
+06.May.19 15:13:16.123  INFO   [AppLogger]    AppElement          Waiting for an element        android:id/parentPanel                                      30        true      
+06.May.19 15:13:17.238  INFO   [AppLogger]    AppElement          Waiting for an element        android:id/content                                          30        true      
+06.May.19 15:13:18.295  INFO   [AppLogger]    Alerts              has child elements by ID      android:id/parentPanel                                      android:id/contenttrue      
+06.May.19 15:13:18.324  INFO   [AppLogger]    Alerts              has child elements by ID      android:id/buttonPanel                                      android:id/parentPaneltrue      
+06.May.19 15:13:18.351  INFO   [AppLogger]    Alerts              get list of child elements by IDandroid:id/buttonPanel                                      android:id/parentPanel1         
+06.May.19 15:13:18.380  INFO   [AppLogger]    Alerts              get list of child elements by classandroid.widget.TextView                                     android:id/parentPanel1         
+06.May.19 15:13:18.408  INFO   [AppLogger]    Alerts              get list of child elements by classandroid.widget.Button                                       android:id/parentPanel1         
+06.May.19 15:13:18.409  INFO   [AppLogger]    Alerts              is Alert visible              true                                                        
+06.May.19 15:13:18.440  INFO   [AppLogger]    Alerts              get list of AppElements for classandroid.widget.Button                                       1         
+06.May.19 15:13:18.440  INFO   [AppLogger]    Alerts              Click on element                                                                          
+06.May.19 15:13:18.477  INFO   [AppLogger]    LoginTests          Accept alert                  true                                                        

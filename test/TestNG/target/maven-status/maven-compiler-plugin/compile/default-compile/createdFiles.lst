@@ -1,0 +1,7 @@
+test\EmployeeDirectory\EmployeeDirectoryWidgetNames.class
+test\EmployeeDirectory\EmployeeDirectoryWidgetId.class
+test\EmployeeDirectory\tests\SampleTest.class
+test\EmployeeDirectory\EmployeeDirectoryBaseTest.class
+test\EmployeeDirectory\forms\frmListDetail.class
+test\EmployeeDirectory\forms\frmKnowledgeFramework.class
+test\EmployeeDirectory\forms\frmHome.class

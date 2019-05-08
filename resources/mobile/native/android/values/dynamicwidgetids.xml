@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flxmenu0" type="id"/>
+    <item name="flxmenu1" type="id"/>
+    <item name="flxmenu2" type="id"/>
+    <item name="flxmenu3" type="id"/>
+	<item name="flxmenu4" type="id"/>
+	<item name="flxHeaderDatamenu0" type="id"/>
+    <item name="flxHeaderDatamenu1" type="id"/>
+    <item name="lblflxOptionsmenu00" type="id"/>
+    <item name="lblflxOptionsmenu01" type="id"/>
+	<item name="lblflxOptionsmenu02" type="id"/>
+	<item name="lblflxOptionsmenu03" type="id"/>
+    <item name="lblflxOptionsmenu04" type="id"/>
+	<item name="lblflxOptionsmenu05" type="id"/>
+	<item name="lblflxOptionsmenu10" type="id"/>
+    <item name="lblflxOptionsmenu11" type="id"/>
+	<item name="lblflxOptionsmenu12" type="id"/>
+	<item name="lblflxOptionsmenu13" type="id"/>
+    <item name="lblflxOptionsmenu14" type="id"/>
+	<item name="lblflxOptionsmenu15" type="id"/>
+	<item name="lblflxOptionsmenu16" type="id"/>
+    <item name="lblflxOptionsmenu17" type="id"/>
+	<item name="lblflxOptionsmenu18" type="id"/>
+	<item name="lblflxOptionsmenu110" type="id"/>
+	<item name="lblflxOptionsmenu111" type="id"/>
+	<item name="lblflxOptionsmenu112" type="id"/>
+    <item name="lblflxOptionsmenu113" type="id"/>
+	<item name="lblflxOptionsmenu114" type="id"/>
+</resources>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="765378" started-at="2019-05-06T09:39:50Z" finished-at="2019-05-06T09:52:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="765378" started-at="2019-05-06T09:39:50Z" finished-at="2019-05-06T09:52:36Z">
+      <class name="test.EmployeeDirectory.tests.LoginTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeSuite" is-config="true" duration-ms="7238" started-at="2019-05-06T15:09:43Z" finished-at="2019-05-06T15:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeClass" is-config="true" duration-ms="106792" started-at="2019-05-06T15:09:50Z" finished-at="2019-05-06T15:11:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EmployeeDirectory]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.verticalapps.EmployeeDirectory]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[<launchactivityname>]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[com.verticalapps.EmployeeDirectory]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod([Ljava.lang.Object;, java.lang.reflect.Method)[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeMethod" is-config="true" duration-ms="511" started-at="2019-05-06T15:11:37Z" finished-at="2019-05-06T15:11:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7fc6de5b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.EmployeeDirectory.tests.LoginTests.LoginTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeMethod" is-config="true" duration-ms="8714" started-at="2019-05-06T15:11:38Z" finished-at="2019-05-06T15:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="LoginTest" duration-ms="24294" started-at="2019-05-06T15:11:46Z" finished-at="2019-05-06T15:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-05-06T15:12:11Z" finished-at="2019-05-06T15:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=LoginTests.LoginTest()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod([Ljava.lang.Object;, java.lang.reflect.Method)[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeMethod" is-config="true" duration-ms="197" started-at="2019-05-06T15:12:11Z" finished-at="2019-05-06T15:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@60a2630a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.EmployeeDirectory.tests.LoginTests.LoginTestWrongPwd() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="beforeMethod" is-config="true" duration-ms="42027" started-at="2019-05-06T15:12:11Z" finished-at="2019-05-06T15:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTestWrongPwd()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="LoginTestWrongPwd" duration-ms="25212" started-at="2019-05-06T15:12:53Z" finished-at="2019-05-06T15:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestWrongPwd -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-05-06T15:13:18Z" finished-at="2019-05-06T15:13:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTestWrongPwd status=SUCCESS method=LoginTests.LoginTestWrongPwd()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.EmployeeDirectory.tests.LoginTests@bd8db5a]" name="afterSuite" is-config="true" duration-ms="16990" started-at="2019-05-06T15:22:36Z" finished-at="2019-05-06T15:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.EmployeeDirectory.tests.LoginTests -->
+      <class name="test.EmployeeDirectory.tests.ListDetailTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30238" started-at="2019-05-06T15:15:25Z" finished-at="2019-05-06T15:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_MenuDirectory()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="test_MenuDirectory" duration-ms="6419" started-at="2019-05-06T15:15:56Z" finished-at="2019-05-06T15:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_MenuDirectory -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30513" started-at="2019-05-06T15:16:02Z" finished-at="2019-05-06T15:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_MenuColleagues()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="test_MenuColleagues" duration-ms="15547" started-at="2019-05-06T15:16:33Z" finished-at="2019-05-06T15:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_MenuColleagues -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30440" started-at="2019-05-06T15:16:48Z" finished-at="2019-05-06T15:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_MenuMessages()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="test_MenuMessages" duration-ms="15515" started-at="2019-05-06T15:17:19Z" finished-at="2019-05-06T15:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_MenuMessages -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30422" started-at="2019-05-06T15:17:34Z" finished-at="2019-05-06T15:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_MenuEvents()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="test_MenuEvents" duration-ms="15404" started-at="2019-05-06T15:18:04Z" finished-at="2019-05-06T15:18:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_MenuEvents -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30460" started-at="2019-05-06T15:18:20Z" finished-at="2019-05-06T15:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_MenuSettings()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="test_MenuSettings" duration-ms="15455" started-at="2019-05-06T15:18:50Z" finished-at="2019-05-06T15:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_MenuSettings -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30339" started-at="2019-05-06T15:19:06Z" finished-at="2019-05-06T15:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EmployeeCheck()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="EmployeeCheck" duration-ms="7500" started-at="2019-05-06T15:19:36Z" finished-at="2019-05-06T15:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeCheck -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30517" started-at="2019-05-06T15:19:44Z" finished-at="2019-05-06T15:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="srollDetailsScreen()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="srollDetailsScreen" duration-ms="9897" started-at="2019-05-06T15:20:14Z" finished-at="2019-05-06T15:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srollDetailsScreen -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30661" started-at="2019-05-06T15:20:24Z" finished-at="2019-05-06T15:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchByDepartmnt()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="searchByDepartmnt" duration-ms="10497" started-at="2019-05-06T15:20:55Z" finished-at="2019-05-06T15:21:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByDepartmnt -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30823" started-at="2019-05-06T15:21:05Z" finished-at="2019-05-06T15:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchByEmpname()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="searchByEmpname" duration-ms="15016" started-at="2019-05-06T15:21:36Z" finished-at="2019-05-06T15:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByEmpname -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="beforeMethod" is-config="true" duration-ms="30785" started-at="2019-05-06T15:21:51Z" finished-at="2019-05-06T15:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="FilterValidation()[pri:0, instance:test.EmployeeDirectory.tests.ListDetailTests@34cd072c]" name="FilterValidation" duration-ms="13771" started-at="2019-05-06T15:22:22Z" finished-at="2019-05-06T15:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterValidation -->
+      </class> <!-- test.EmployeeDirectory.tests.ListDetailTests -->
+      <class name="test.EmployeeDirectory.tests.KnowledgeFrameworkTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="beforeMethod" is-config="true" duration-ms="25921" started-at="2019-05-06T15:13:18Z" finished-at="2019-05-06T15:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatekFBtnClick()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="validatekFBtnClick" duration-ms="14385" started-at="2019-05-06T15:13:44Z" finished-at="2019-05-06T15:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatekFBtnClick -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="beforeMethod" is-config="true" duration-ms="30659" started-at="2019-05-06T15:13:58Z" finished-at="2019-05-06T15:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatekFObjServ()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="validatekFObjServ" duration-ms="12869" started-at="2019-05-06T15:14:29Z" finished-at="2019-05-06T15:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatekFObjServ -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="beforeMethod" is-config="true" duration-ms="30686" started-at="2019-05-06T15:14:42Z" finished-at="2019-05-06T15:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validatekFComp()[pri:0, instance:test.EmployeeDirectory.tests.KnowledgeFrameworkTests@78e67e0a]" name="validatekFComp" duration-ms="12862" started-at="2019-05-06T15:15:13Z" finished-at="2019-05-06T15:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatekFComp -->
+      </class> <!-- test.EmployeeDirectory.tests.KnowledgeFrameworkTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

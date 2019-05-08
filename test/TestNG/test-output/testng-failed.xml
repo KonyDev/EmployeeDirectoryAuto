@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="test.EmployeeDirectory.tests.ListDetailTests">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="FilterValidation"/>
+        </methods>
+      </class> <!-- test.EmployeeDirectory.tests.ListDetailTests -->
+      <class name="test.EmployeeDirectory.tests.LoginTests">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="LoginTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- test.EmployeeDirectory.tests.LoginTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
